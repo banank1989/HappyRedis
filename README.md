@@ -28,9 +28,9 @@ Run the JAR File will start Collecting & Storing Redis Data To Elastic Search & 
 **Note** : JAVA_HOME variable must be point to JAVA 8 or change the pom.xml file according to Java version
 
 ### Dashboard
-![alt tag](https://raw.githubusercontent.com/banank1989/happyRedis/master/share/happyRedis1.png)<br />
-![alt tag](https://raw.githubusercontent.com/banank1989/happyRedis/master/share/happyRedis2.png)<br />
-![alt tag](https://raw.githubusercontent.com/banank1989/happyRedis/master/share/happyRedis3.png)<br />
+![alt tag](https://raw.githubusercontent.com/banank1989/HappyRedis/master/share/happyRedis1.png)<br />
+![alt tag](https://raw.githubusercontent.com/banank1989/HappyRedis/master/share/happyRedis2.png)<br />
+![alt tag](https://raw.githubusercontent.com/banank1989/HappyRedis/master/share/happyRedis3.png)<br />
 
 
  
